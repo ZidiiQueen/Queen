@@ -1,1 +1,1 @@
-import Queen
+import QUEEN
